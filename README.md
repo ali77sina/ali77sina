@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ali and I'm a PhD (DPhil) student in Clinical Neuroscience at the University of Oxford. My research is focused on Circadian Rhythms and to develop chronologically informed theraputic algorithms. 
+- 👋 Hi, I’m Ali and I'm a PhD (DPhil) student in Clinical Neuroscience at the University of Oxford. My research is focused on Circadian Rhythms and to develop chronologically informed theraputic algorithms for Deep Brain Stimulation (DBS).
 - 👀 I’m interested in numerical modelling and Machine Learning, specifically deep learning and edge computing
 - 🌱 I’m currently learning probabilistic deep models and their applications in the biomedical sciences 
 - 📫 You can reach me on my email, ali77sina@yahoo.com, please do get in touch if you'd believe I can help with anything related!
